@@ -4,7 +4,7 @@ Loops help us **repeat** a block of code multiple times **without writing it man
 
 ---
 
-### **1. for Loop** (Runs a set number of times)
+### **1. for Loop** (Runs a code a set number of times)
 
 Loops **repeat** code until a condition is false.
 

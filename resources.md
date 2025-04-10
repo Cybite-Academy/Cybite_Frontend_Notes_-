@@ -37,7 +37,7 @@ The frontend course scheme is available in both **.pdf** format and **.jam** for
 ## Resources ⚡
 
 Click the links below to explore more!
-
-- [HTML 🏗](./HTML/html.md)
-- [Css 🎨]()
-- [JavaScript 🤖]()
+- [Frontend Introduction](./frontendIntro.md)
+- [HTML 🏗](./HTML/01_html_intro.mdhtml.md)
+- [Css 🎨](./CSS/01_css_intro.md)
+- [JavaScript 🤖](./Javascript/01_javascript_intro.md)
