@@ -2,9 +2,8 @@
 
 Control flow determines the **order** in which code **executes** in JavaScript. It includes **conditional statements**, **loops**, and **switch statements**.
 
-[Conditionals](https://www.notion.so/Conditionals-1c165c1dff2280328331e480a3900df8?pvs=21)
-
-[Loops](https://www.notion.so/Loops-1c165c1dff228062a58bf12dbabdb25c?pvs=21)
+- [Conditionals](https://www.notion.so/Conditionals-1c165c1dff2280328331e480a3900df8?pvs=21)
+- [Loops](https://www.notion.so/Loops-1c165c1dff228062a58bf12dbabdb25c?pvs=21)
 
 ### **Summary Table**
 

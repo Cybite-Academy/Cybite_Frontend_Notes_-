@@ -4,7 +4,7 @@
 
 ### Learn 📚
 
-- [HTML – W3Schools]()
+- [HTML – W3Schools](https://www.w3schools.com/html/default.asp)
 - [MDN DOC ....... Note!: it is More Advanced](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### Useful Extensions 🔧
