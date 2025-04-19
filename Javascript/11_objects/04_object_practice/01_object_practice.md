@@ -1,6 +1,7 @@
-Awesome! Here's a set of **practice questions** on **JavaScript Objects**, thoughtfully structured to include **Objective**, **Theoretical**, and **Practical** exercises while **integrating all the topics** you've taught so far. You can use this for in-class quizzes, assignments, or revisions.
+Awesome! Here's a set of **practice questions** on **JavaScript Objects**, thoughtfully structured to include **Objective**, **Theoretical**, and **Practical** exercises while **integrating all the topics** you've taught so far.
 
----
+<br>
+<br>
 
 ## 🔹 **Objective Questions (MCQs and Fill in the Blanks)**
 
@@ -37,7 +38,8 @@ Awesome! Here's a set of **practice questions** on **JavaScript Objects**, thoug
    c) `function greet() {}; user.greet = greet;`  
    d) All of the above
 
----
+<br>
+<br>
 
 ## 🔹 **Theoretical Questions**
 
@@ -51,7 +53,8 @@ Awesome! Here's a set of **practice questions** on **JavaScript Objects**, thoug
 
 5. **Briefly describe what happens when you assign a function to a property inside an object.**
 
----
+<br>
+<br>
 
 ## 🔹 **Practical Exercises**
 
