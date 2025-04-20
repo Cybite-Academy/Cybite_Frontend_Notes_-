@@ -1,7 +1,3 @@
-Sure! Let’s break down **DOM Manipulation** in simple terms and go through some practical **use case scenarios**.
-
----
-
 ### **What is DOM?**
 DOM stands for **Document Object Model**. It's how your browser represents an HTML page as a **tree of objects** so that JavaScript can interact with it.
 

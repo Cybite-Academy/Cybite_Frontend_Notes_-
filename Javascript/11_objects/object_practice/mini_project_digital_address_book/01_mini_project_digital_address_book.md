@@ -6,7 +6,7 @@ Awesome! Let's do a fun mini project where you’ll **practice creating and usin
 
 You're going to create a **simple contact book** where you store and display people's contact info using JavaScript **objects**.
 
-<br>
+
 
 ### 🔧 What You'll Build
 
@@ -16,7 +16,7 @@ A small app that:
 - Lets you add a new contact
 - Prints all contacts to the console
 
-<br>
+
 
 ### 🧠 Extra Challenges (Optional)
 
@@ -40,4 +40,4 @@ If you want to explore more:
 <br>
 
 
-see solution here 👉🏾 [click](./object_practice.md)
+see solution here 👉🏾 [click](./object_solution.md)
