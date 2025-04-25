@@ -18,7 +18,7 @@
 
 🔹 **Bonus Challenge:**
 
-- Add **a like button** with a counter
+- Add **a like button** with a counter for likes
 
 🔹 **Helpful Tips:**  
 ✅ **write a short blog post about their experience in the course**!

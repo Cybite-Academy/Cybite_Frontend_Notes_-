@@ -1,84 +1,108 @@
-# Variables Practice
-
-Here are some assignment questions on JavaScript data types using `console.log`. The questions cover strings, numbers, `typeof`, booleans, variables (`let`, `const`, and automatic assignment), and variable naming rules.
+Here’s a thoughtfully structured **set of practice questions on JavaScript Variables**, aligned with the topics you've taught so far. The questions are grouped into **Objective**, **Theoretical**, and **Practical** sections for balanced learning.
 
 ---
 
-### **Section 1: Practical Questions**
+## 🧠 **Objective Questions (Multiple Choice & True/False)**  
+Focus: Concept recall & identification
 
-Use `console.log` to print the answers in each question.
+1. **Which keyword was introduced in ES6 for declaring block-scoped variables?**  
+   A. `var`  
+   B. `let`  
+   C. `const`  
+   D. `variable`
 
-1. Declare a variable `message` and assign it the string `"Hello, JavaScript!"`. Print its value.
-2. Create a variable `age` and assign it the number `25`. Print its value.
-3. Declare a variable `isStudent` and set it to `true`. Print its value.
-4. Use `typeof` to check the data type of `message`, `age`, and `isStudent`. Print the results.
-5. Declare a variable without using `let` or `const`, assign it a value of `10`, and print it.
-6. Use `let` to declare a variable `price`, assign it `199.99`, and print its value.
-7. Declare a constant `PI` with the value `3.14159` and print it.
-8. Try changing the value of `PI` and observe what happens (add a comment explaining the error).
-9. Create a variable `firstName`, assign your name to it, then print `"My name is "` followed by the value of `firstName`.
-10. Declare a boolean variable `isRaining`, set it to `false`, and print `"Is it raining? "` followed by its value.
+2. **What will be the output of `typeof "123"`?**  
+   A. `number`  
+   B. `string`  
+   C. `boolean`  
+   D. `undefined`
 
-### **Section 2: Objective Questions**
+3. **Which of the following is a valid variable name?**  
+   A. `2name`  
+   B. `my-name`  
+   C. `_value`  
+   D. `class`
 
-Choose the correct answer.
+4. **True or False:**  
+   Variables declared with `var` are function-scoped.
 
-1. What will `console.log(typeof "42")` print?
+5. **Which data type does the value `true` belong to?**  
+   A. String  
+   B. Number  
+   C. Boolean  
+   D. Object
 
-   a) number
+6. **What will `typeof undefined` return?**  
+   A. `"null"`  
+   B. `"undefined"`  
+   C. `"object"`  
+   D. `"NaN"`
 
-   b) string
-
-   c) boolean
-
-   d) undefined
-
-2. What is the correct way to declare a constant in JavaScript?
-
-   a) `var name = "John";`
-
-   b) `let name = "John";`
-
-   c) `const name = "John";`
-
-   d) `name = "John";`
-
-3. What will `console.log(typeof true)` print?
-
-   a) string
-
-   b) boolean
-
-   c) number
-
-   d) undefined
-
-4. Which of the following is a valid variable name?
-
-   a) `2name`
-
-   b) `user_name`
-
-   c) `let`
-
-   d) `first name`
-
-5. What will `console.log(5 + "5")` print?
-
-   a) `10`
-
-   b) `55`
-
-   c) `Error`
-
-   d) `undefined`
+7. **Which keyword should you use to declare a variable that will never be reassigned?**  
+   A. `let`  
+   B. `const`  
+   C. `var`  
+   D. `final`
 
 ---
 
-### **Section 3: Special Question**
+## 📘 **Theoretical Questions**  
+Focus: Explanation, definitions, comparisons
 
-1. what is the difference between ‘var’, 'let', and 'const'?
-2. List one best use case of the following:
-   i. string
-   ii. number
-   iii. boolean
+1. **Explain the differences between `var`, `let`, and `const`. Include use cases for each.**
+
+2. **What is the `typeof` operator used for? List 3 examples with different data types.**
+
+3. **Why should you avoid using `var` in modern JavaScript? Provide a scenario that could cause issues.**
+
+4. **Describe how JavaScript handles variable hoisting with `var`, `let`, and `const`.**
+
+5. **What is a data type in JavaScript? Name and describe the 3 primitive data types you've learned so far.**
+
+6. **Can a variable declared with `const` hold an object? If yes, can you change the properties of that object? Explain with an example.**
+
+---
+
+## 🛠️ **Practical Exercises**  
+Focus: Implementation and hands-on coding
+
+### 🟠 Beginner Level
+1. **Declare variables to store:**
+   - Your name (as a string)
+   - Your age (as a number)
+   - Whether you are a student (as a boolean)
+
+2. **Use `typeof` to log the type of each variable in the above question to the console.**
+
+3. **Try reassigning values to variables declared with `var`, `let`, and `const`. Observe what happens. Write a short comment about your observation.**
+
+---
+
+### 🔵 Intermediate Level
+4. **Create a script that calculates the area of a rectangle.**  
+   - Declare two variables `length` and `width`  
+   - Multiply them to get the area  
+   - Log the result using a descriptive message
+
+5. **Write a short program to swap the values of two variables.**  
+   - Before: `a = 5`, `b = 10`  
+   - After: `a = 10`, `b = 5`
+
+6. **Use `typeof` inside an `if` condition to check if a variable is a string. If it is, convert it to uppercase and log it.**
+
+---
+
+### 🔴 Bonus Challenge
+7. **Build a mini data checker:**
+   - Declare 3 variables: `username`, `age`, and `isRegistered`
+   - Check the types of each using `typeof`
+   - If any is not of the correct type (`string`, `number`, `boolean`), log a message saying “Wrong data type for [variable]”
+
+8. **Create a script that prints a message like:**
+   ```javascript
+   const name = "Jane";
+   const age = 25;
+   console.log(`Hi, my name is ${name} and I am ${age} years old.`);
+   ```
+   - Then try changing `name` and `age` to new values using `let` and print again.
+
