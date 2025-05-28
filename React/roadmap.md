@@ -1,0 +1,18 @@
+- SPAs
+- SPAs vs MPAs
+- frameworks
+- what is react and how it works
+- creating our first react project
+- folder and files walk through
+- JSX
+- styling in react (className and Inline)
+- components
+- css modules
+- props
+- packages
+- using our first installed package in react
+- lists and keys
+- using twailwind css in react
+- introduction to react hooks
+- useState Hook
+- Events
